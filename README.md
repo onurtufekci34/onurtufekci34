@@ -35,7 +35,7 @@ I've been learning to code 2 years, but normally at university i learnt algorith
 
 <b>My GitHub Stats</b>
 
-<img align="left" alt="onurtufekci34's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=onurtufekci34&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 
 <a href="https://github.com/onurtufekci34" align="left"><img src="https://github-readme-stats.vercel.app/api?username=onurtufekci34&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
 
