@@ -33,6 +33,10 @@ I've been learning to code 2 years, but normally at university i learnt algorith
 
 <p align="left"> <a href="https://www.github.com/onurtufekci34" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/onurtüfekci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/onurtufekci34"><img src="https://github-readme-stats.vercel.app/api?username=onurtufekci34&show_icons=true&hide=prs,issues,contribs&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="onurtufekci34's GitHub stats" /></a>
+
+<a href="https://github.com/onurtufekci34" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurtufekci34&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
