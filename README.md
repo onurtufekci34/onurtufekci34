@@ -35,7 +35,7 @@ I've been learning to code 2 years, but normally at university i learnt algorith
 
 <b>My GitHub Stats</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurtufekci34)](https://github.com/onurtufekci34/github-readme-stats)
 
 <a href="https://github.com/onurtufekci34" align="left"><img src="https://github-readme-stats.vercel.app/api?username=onurtufekci34&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a>
 
