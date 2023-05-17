@@ -52,4 +52,4 @@ I've been learning to code 2 years, but normally at university i learnt algorith
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+[![Onur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=onurtufekci34)](https://github.com/onurtufekci34/github-readme-stats)
