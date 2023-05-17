@@ -42,7 +42,7 @@ I've been learning to code 2 years, but normally at university i learnt algorith
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurtufekci34&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -50,6 +50,6 @@ I've been learning to code 2 years, but normally at university i learnt algorith
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onurtufekci34&layout=pie)](https://github.com/Onurtufekci34/github-readme-stats)
+
 
 
