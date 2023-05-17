@@ -37,19 +37,17 @@ I've been learning to code 2 years, but normally at university i learnt algorith
 
 [![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurtufekci34)](https://github.com/onurtufekci34/github-readme-stats)
 
-
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurtufekci34&show_icons=true)
-
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurtufekci34&show_icons=true&theme=radical)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurtufekci34)](https://github.com/onurtufekci34/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurtufekci34&layout=donut)](https://github.com/onurtufekci34/github-readme-stats)
-
-
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 
