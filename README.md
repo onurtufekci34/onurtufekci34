@@ -50,6 +50,6 @@ I've been learning to code 2 years, but normally at university i learnt algorith
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurtufekci34&layout=pie)](https://github.com/onurtufekci34/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onurtufekci34&layout=pie)](https://github.com/Onurtufekci34/github-readme-stats)
 
 
