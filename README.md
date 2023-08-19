@@ -8,7 +8,7 @@ Frontend Web Developer & Electrical Engineer
 * 🖥️  See my portfolio at [My Portfolio](http://coderonur.netlify.app)
 * ✉️  You can contact me at [onurtufekci61@gmail.com](mailto:onurtufekci61@gmail.com)
 * 🧠  I'm learning something new everyday. 
-* 🤝  I'm open to collaborating on Frontend Projects(HTML,CSS,JS,REACT,PHP,MySQL,Bootstrap,Java,MateialUI,Chakra,SASS,SCSS,Linux)
+* 🤝  I'm open to collaborating on Frontend Projects(HTML,CSS,JS,REACT,Redux,PHP,MySQL,Bootstrap,Java,MateialUI,Chakra,SASS,SCSS,Linux)
 * ⚡  I am trying to learn German :)
 
 
