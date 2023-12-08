@@ -1,7 +1,7 @@
 Hi 👋 My name is Onur TÜFEKÇİ
 =============================
 
-Frontend Web Developer & Electrical Engineer
+A career changer, a self-taught software engineer with a background in electrical engineering and project management.
 # 💫 About Me:
 
 <br>* 🌍  I'm based in Kiel,Germany. Ready to move anywhere in Germany.<br>* 🖥️  See my portfolio at [My Portfolio](https://onurtuefekci.netlify.app/)<br>* ✉️  You can contact me at [onurtufekci61@gmail.com](mailto:onurtufekci61@gmail.com)<br>* 🧠  I'm learning something new everyday. <br>* 🤝  I'm open to collaborating on Frontend Projects(HTML,CSS,JS,REACT,Redux,PHP,MySQL,Bootstrap,Java,MateialUI,Chakra,SASS,SCSS,Firebase,Linux)
